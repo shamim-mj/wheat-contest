@@ -1,0 +1,10 @@
+name: wheat-contest
+title:
+username: wheat-yield-contest
+account: wheat-yield-contest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12510593
+bundleId: 9020056
+url: https://wheat-yield-contest.shinyapps.io/wheat-contest/
+version: 1
